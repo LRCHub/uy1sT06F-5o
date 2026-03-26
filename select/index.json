@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Untitled Sky",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-03-26T01:09:12.910415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Untitled Sky",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/01_Untitled_Sky_Endorfin..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Untitled 1",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/02_Untitled_1_Keane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/03_Untitled_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "Jedi Mind Tricks feat. Jus Allah",
+      "has_synced": true,
+      "path": "select/04_Untitled_Jedi_Mind_Tricks_feat._Jus_Allah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/05_Untitled_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "jonatan leandoer96",
+      "has_synced": false,
+      "path": "select/06_Untitled_jonatan_leandoer96.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "jonatan leandoer127",
+      "has_synced": false,
+      "path": "select/07_Untitled_jonatan_leandoer127.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "Low",
+      "has_synced": false,
+      "path": "select/08_Untitled_Low.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Untitled Three",
+      "artist": "Lorenzo Senni",
+      "has_synced": false,
+      "path": "select/09_Untitled_Three_Lorenzo_Senni.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "Midsummer",
+      "has_synced": false,
+      "path": "select/10_Untitled_Midsummer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Untitled Song for Latin America",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/11_Untitled_Song_for_Latin_America_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Untitled Track",
+      "artist": "3",
+      "has_synced": false,
+      "path": "select/12_Untitled_Track_3.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "2 (Untitled)",
+      "artist": "Nurse With Wound",
+      "has_synced": false,
+      "path": "select/13_2_(Untitled)_Nurse_With_Wound.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Untitled",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/14_Untitled_Oasis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Untitled Sky",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_Untitled_Sky_Endorfin..txt"
+    }
+  ]
+}
